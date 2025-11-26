@@ -19,7 +19,7 @@ L → Photos<br />
 M → Map<br />
 N → Quick Navigation<br />
 V → Comission Tracking<br />
-X → Fairy Auto Explor<br />
+X → Fairy Auto Explore<br />
 RMB/Lshift → Sprint<br />
 
 <img width="1800" height="1169" alt="Screenshot 2025-11-26 at 04 07 20" src="https://github.com/user-attachments/assets/f6c29967-789a-4d02-80b7-d556434cdea4" />
@@ -56,7 +56,7 @@ L → Photos<br />
 M → Map<br />
 N → Quick Navigation<br />
 V → Comission Tracking<br />
-X → Fairy Auto Explor<br />
+X → Fairy Auto Explore<br />
 LMB → Basic Attack<br />
 Q → Ultimate<br />
 E → Special Attack<br />
