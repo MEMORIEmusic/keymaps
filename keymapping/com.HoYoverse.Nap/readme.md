@@ -20,6 +20,7 @@ M → Map<br />
 N → Quick Navigation<br />
 V → Comission Tracking<br />
 X → Fairy Auto Explore<br />
+J → Inter-Knot<br />
 RMB/Lshift → Sprint<br />
 
 <img width="1800" height="1169" alt="Screenshot 2025-11-26 at 04 07 20" src="https://github.com/user-attachments/assets/f6c29967-789a-4d02-80b7-d556434cdea4" />
